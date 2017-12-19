@@ -1,0 +1,4 @@
+/vendor
+
+public/src/scss.sass*cache
+public/src/scss/.sass-cache*/

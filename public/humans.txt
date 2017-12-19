@@ -1,0 +1,12 @@
+/* TEAMS */
+Developer: Lavaughn Campbell
+Site: contact.php
+Twitter: @Lavaughn Campbell
+Location: Chicago, IL
+
+
+
+
+Last Update: 2017/12/18
+
+Standards: HTML5, CSS3
