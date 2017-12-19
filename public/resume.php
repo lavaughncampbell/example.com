@@ -6,8 +6,8 @@ $meta['description'] = 'Hello, my name is Lavaughn';
 $meta['keywords'] ='Lavaughn, Lavaughn Campbell';
 
 $content = <<<EOT
-<h1>Hello World</h1>
-<p>Welcome to my web site.</p>
+<h1>Lavaughn Campbell</h1>
+<p>Software Engineer</p>
 EOT;
 
 $content = <<<EOT
